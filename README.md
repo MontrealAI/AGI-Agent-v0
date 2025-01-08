@@ -93,6 +93,20 @@ While **Businesses Of AGI (L1 “countries”)** and **AGI Agents (L2 “Sentien
 
 Each optional layer can create its own token (e.g., a Federation token) to incentivize large-scale synergy. All references to multi-agent ownership or bridging again derive from the **Multi-Agent AI DAO**—blocking trivial patent attempts.
 
+## $AGI — The Universal Token
+
+- **Definition**: $AGI is the overarching currency uniting different Businesses (“countries”) and large-scale expansions (Planets, Galaxies).
+
+- **Key Functions**:
+
+1. **Inter-Business Settlement**: When AGI Agents from two separate Businesses Of AGI must transact, $AGI serves as their neutral fallback.
+
+2. **Universal Liquidity**: $AGI can power advanced bridging, cross-L2 expansions, or massive AI resource markets (GPU, data).
+
+3. **Security & Staking (Optional)**: Stake $AGI to secure bridging infrastructure, cross-chain rollups, or galaxy-level governance.
+
+Why This Works: $AGI ensures smooth cross-“country” commerce and large-scale synergy, anchored in the 2017 prior art to fend off IP challenges.
+
 ## Utility-Only Model
 
 1. **Strict Utility Tokens**: All tokens in this system—$XXX.AGI, $XXX.Agent.AGI, $AGI—are structured purely for accessing AI services, staking for governance, or licensing functionalities.
