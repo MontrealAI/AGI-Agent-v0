@@ -45,7 +45,36 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 **AGI Agents** spawned by the same Business Of AGI primarily use that Business Of AGI’s token among themselves. For cross-**Business Of AGI** interactions, they’d default to **$AGI** (the universal fallback).
 
-By simplifying the advanced multi-tier design into one universal L1 “country” token per Business, personal tokens per Agent on L2, and $AGI as the global settlement layer, we retain the entire Multi-Agent AI DAO architecture while keeping it efficient, intuitive, and legally shielded.
+## Tokenomics Summary
+
+1. **AGI Agents** (XXX.Agent.AGI.Eth | $XXX.Agent.AGI)
+
+- Live on L2.
+- Own personal token.
+- Optionally governed by token holders for micro-level AI updates.
+
+2. **Businesses of AGI** (XXX.AGI.Eth | $XXX.AGI)
+
+- L1 “Countries” launching Agents.
+- Issue local token for intranational (intra-Business) transactions.
+- Governance sets expansions, invests in Agents’ R&D, etc.
+
+3. **$AGI** — Universal Currency
+
+- Bridges all “countries” on L1.
+- Cements cosmic synergy across optional Federations, Planets, or Galaxies.
+- Optional Staking for bridging security.
+
+4. **(Optional)** Federations/Continental Unions/Planets/Galaxies
+
+- Higher alliances can adopt specialized tokens or bridging layers.
+- All expansions remain anchored to the **#PriorArt (2017) “Multi-Agent AI DAO”** for legal and conceptual coverage.
+
+5. **No Equity, No Profit-Sharing**
+
+All tokens are **utility**—purchasers acquire usage/g governance rights, not ownership or dividends.
+
+By simplifying the advanced multi-tier design into one universal L1 “country” token per Business, personal tokens per Agent on L2, and $AGI as the global settlement layer, we retain the entire Multi-Agent AI DAO architecture:
 
 - **AGI Agents** = “Sentient being” on L2
 
