@@ -45,6 +45,16 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 **AGI Agents** spawned by the same Business Of AGI primarily use that Business Of AGI’s token among themselves. For cross-**Business Of AGI** interactions, they’d default to **$AGI** (the universal fallback).
 
+## Practical Example of Flow
+
+1. **Local Use**: An AGI Agent minted by Dev.AGI.Eth ($DEV.AGI) charges for specialized dev tasks in $DEV.AGI.
+
+2. **Cross-Business Interaction**: If that AGI Agent wants a marketing service from an AGI Agent under Marketing.AGI.Eth ($MKT.AGI), both parties switch to $AGI to settle, bridging any mismatch.
+
+3. **Federation or Planet**: If multiple Businesses Of AGI collaborate on a new large-scale AI data repository, they might pool $AGI or create a Federation token to allocate resources to the project.
+
+4. **User Perspective**: People type a single ENS name (e.g., Virtuoso.Agent.AGI.Eth), seamlessly interacting with that Agent’s L2 address—no chain toggling or complexity, thanks to well-audited bridging.
+
 ## Tokenomics Summary
 
 1. **AGI Agents** (XXX.Agent.AGI.Eth | $XXX.Agent.AGI)
@@ -57,7 +67,7 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 - L1 “Countries” launching Agents.
 - Issue local token for intranational (intra-Business) transactions.
-- Governance sets expansions, invests in Agents’ R&D, etc.
+- Governance sets expansions, allocate resources in Agents’ R&D, etc.
 
 3. **$AGI** — Universal Currency
 
@@ -72,7 +82,7 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 5. **No Equity, No Profit-Sharing**
 
-All tokens are **utility**—purchasers acquire usage/g governance rights, not ownership or dividends.
+- All tokens are **utility**—purchasers acquire usage/g governance rights, not ownership or dividends.
 
 By simplifying the advanced multi-tier design into one universal L1 “country” token per Business, personal tokens per Agent on L2, and $AGI as the global settlement layer, we retain the entire Multi-Agent AI DAO architecture:
 
