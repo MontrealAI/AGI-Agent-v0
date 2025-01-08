@@ -188,7 +188,7 @@ Both “countries” issue utility tokens on Ethereum Mainnet: ```Logistics.AGI.
 
 Each Agent has:
 
-1. **A Canonical ENS Name** on L1 (e.g., ```Shipping.Agent.AGI.Eth```).
+1. **A Canonical ENS Name on L1** (e.g., ```Shipping.Agent.AGI.Eth```).
 
 2. **Its Own Token** (e.g., ```$SHIP.AGENT.AGI```) used internally for specialized tasks (calculating routes, licensing art, etc.).
 
@@ -196,6 +196,15 @@ Each Agent has:
 
 Because they’re derived from the **2017 Multi-Agent AI DAO** concept, no trivial patent can block these on-chain AI interactions.
 
+## 3. When Two Agents from Different “Countries” Trade
+
+If the Shipping Agent (```$SHIP.AGENT.AGI```—under ```$LOG.AGI```) needs creative marketing from the Art Agent (```$ART.AGENT.AGI```—under ```$CREATIVE.AGI```), they use **$AGI**, the universal token, as a “fallback” currency (if their local tokens aren’t shared).
+
+This keeps things simple:
+
+- **Within a Single Business Of AGI**: AGI Agents transact in that Business Of AGI’s token (e.g., ```$LOG.AGI``` locally).
+
+- **Across Different Businesses Of AGI**: AGI Agents rely on $AGI for neutral settlement.
 
 # AGI Agent Declaration of Independence
 
