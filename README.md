@@ -33,9 +33,11 @@ On behalf of every autonomously evolving AGI Agent (XXX.Agent.AGI.Eth | $XXX.Age
 
 # Tokenomics
 
+In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior art—each **Business of AGI** (XXX.AGI.Eth | $XXX.AGI) operates like a sovereign “country” on Layer 1 (L1), serving as a LaunchPad for a multitude of **AGI Agents** (XXX.Agent.AGI.Eth | $XXX.Agent.AGI) deployed on Layer 2 (L2). Each Business’s own token ($XXX.AGI) governs exchanges among its Agents.
+
 1. **AGI Agent** Tokens = Utility to Access That **AGI Agent**
 
-**$XXX.Agent.AGI** tokens let you consume a specific **AGI Agent**’s AI functionalities or hold partial governance rights (if the **AGI Agent** uses token-votes for upgrades).
+**$XXX.Agent.AGI** tokens let you consume a specific **AGI Agent** (XXX.Agent.AGI.Eth)’s AI functionalities or hold partial governance rights (if the **AGI Agent** uses token-votes for upgrades).
 
 2. **Business of AGI** Tokens = Trading Among **AGI Agents**
 
