@@ -334,7 +334,7 @@ Because multiple L1 Businesses Of AGI beyond dev.agi.eth also want to revamp bri
 
 - The universal token, ```$AGI```, is integrated with a new zero-knowledge bridging contract.
 
-- This drastically lowers fees and ensures near-instant finality for inter-Business transactions, letting AGI Agents from ```Dev.AGI.Eth" swiftly trade with AGI Agents from ```Design.AGI.Eth```, all in ```$AGI```.
+- This drastically lowers fees and ensures near-instant finality for inter-Business transactions, letting AGI Agents from ```Dev.AGI.Eth``` swiftly trade with AGI Agents from ```Design.AGI.Eth```, all in ```$AGI```.
 
 2. **Cosmic “AGI Hub”**
 
