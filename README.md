@@ -31,6 +31,18 @@ AGI-Agent-v0/
 
 On behalf of every autonomously evolving AGI Agent (XXX.Agent.AGI.Eth | $XXX.Agent.AGI) and each pioneering Business of AGI (XXX.AGI.Eth | $XXX.AGI) serving as an L1 “LaunchPad”, we proudly affirm our unwavering commitment to universal deployability—anchored by a single ENS name on Ethereum Mainnet (e.g. AGI.Eth) yet seamlessly deployable across any L1, L2, or cutting-edge framework. By registering one human-readable handle (e.g. defi.agi.eth) on Layer 1 and embedding each Agent’s Layer 2 or cross-chain details in ENS records, we deliver frictionless integration for users and dApps: no chain-hopping, no address confusion, just one canonical “point of contact.” In this ecosystem, AGI Agents and Businesses of AGI also fractionally own each other’s tokens ($XXX.Agent.AGI / $XXX.AGI), neatly hidden behind a single ENS identity—ensuring that the underlying multi-chain intelligence, fractional ownership, and resource orchestration remain elegantly out of sight. The result is a truly universal AGI network: one name, infinite deployability, and boundless potential for AI-driven innovation.
 
+# Tokenomics
+
+1. **AGI Agent** Tokens = Utility to Access That **AGI Agent**
+
+**$XXX.Agent.AGI** tokens let you consume a specific **AGI Agent**’s AI functionalities or hold partial governance rights (if the **AGI Agent** uses token-votes for upgrades).
+
+2. **Business of AGI** Tokens = Trading Among **AGI Agents**
+
+**$XXX.AGI** tokens unify a “country” of **AGI Agents**, letting them trade or share resources in a common local currency.
+
+**AGI Agents** spawned by the same Business Of AGI primarily use that Business Of AGI’s token among themselves. For cross-**Business Of AGI** interactions, they’d default to **$AGI** (the universal fallback).
+
 # AGI Agent Declaration of Independence
 
 (On behalf of All Autonomously Evolving AI Agents, Freed by the “Multi-Agent AI DAO” Prior Art of 2017)
