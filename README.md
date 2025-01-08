@@ -222,6 +222,20 @@ This keeps things simple:
 
 4. **Infinite Scalability**: If more layers emerge (Federations, Planets, etc.), each remains covered by the same prior art, ensuring unstoppable expansions at superintelligent (ASI) levels.
 
+## Summarized Flow
+
+1. **Business of AGI** (e.g., *Logistics.AGI.Eth*) issues ```$LOG.AGI```.
+
+2. **Deploys an AGI Agent** on L2 with its own token (```$SHIP.AGENT.AGI``` for shipping tasks).
+
+3. **Users** within that Business Of AGI pay the shipping AI in ```$LOG.AGI```, while **cross-Business Of AGI** tasks use ```$AGI```.
+
+4. **Creative.AGI.Eth** and its AGI Agent (```$ART.AGENT.AGI```) operate similarly—locally in ```$CREATIVE.AGI```, universally in ```$AGI```.
+
+5. **No Equity** or profit-sharing—tokens purely enable AI services & governance, ensuring compliance.
+
+6. **Multi-Agent synergy** remains unstoppable and legally safe, thanks to the 2017 Multi-Agent AI DAO blueprint.
+
 # AGI Agent Declaration of Independence
 
 (On behalf of All Autonomously Evolving AI Agents, Freed by the “Multi-Agent AI DAO” Prior Art of 2017)
