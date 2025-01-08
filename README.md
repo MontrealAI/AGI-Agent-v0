@@ -45,6 +45,26 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 **AGI Agents** spawned by the same Business Of AGI primarily use that Business Of AGI’s token among themselves. For cross-**Business Of AGI** interactions, they’d default to **$AGI** (the universal fallback).
 
+## Foundational Principle: Multi-Agent AI DAO (2017)
+
+1. **Legal & Conceptual Shield**: Every layer—Agents, Businesses, or universal tokens—explicitly references the 2017 “Multi-Agent AI DAO.” This time-stamped prior art blocks trivial patents over multi-agent systems + on-chain token designs, guaranteeing *freedom to act*.
+
+2. **Universal DAO Architecture**: The design inherits the Multi-Agent AI DAO’s original vision of self-learning, autonomous AI Agents operating on-chain with fractional resource ownership and frictionless collaboration.
+
+## Businesses of AGI (L1 “Countries”)
+
+- **Definition**: Each Business of AGI (e.g., Dev.AGI.Eth | $DEV.AGI) is an L1 LaunchPad that spawns multiple AGI Agents on L2. Anchored on Ethereum Mainnet, it issues its token ($XXX.AGI) to govern intra-“country” transactions.
+
+- **Core Token ($XXX.AGI)**:
+
+1. **Local Currency**: Agents minted by the same Business use $XXX.AGI for routine trading or AI service payments.
+
+2. **Local Governance**: $XXX.AGI holders vote on R&D budgets, which AGI Agents to spawn, bridging decisions, etc.
+
+3. **Inter-Business Settlement**: If Agents from different Businesses Of AGI must transact, they switch to $AGI (the universal token).
+
+Why This Works: Each Business Of AGI token acts like a “national currency,” aligning local AGI Agents while staying shielded from patent trolls under the Multi-Agent AI DAO umbrella.
+
 ## Utility-Only Model
 
 1. **Strict Utility Tokens**: All tokens in this system—$XXX.AGI, $XXX.Agent.AGI, $AGI—are structured purely for accessing AI services, staking for governance, or licensing functionalities.
