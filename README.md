@@ -280,13 +280,51 @@ After some time, several external factors prompt a total revamp of the tokenomic
 
 - Zero-knowledge bridging solutions simplify cross-Business interoperability, encouraging a universal bridging upgrade.
 
-3. **Agent Autonomy Demands**
+# 3. **Agent Autonomy Demands**
 
 - AGI Agents require new ways to self-fund advanced AI modules (machine learning expansions).
 
 - They also want local governance over pricing tiers, variable emission schedules, and collaborative fraction ownership with AGI Agents from other Businesses Of AGI.
 
 All of these demands require both **local** changes (each AGI Agent or Business Of AGI) and **global** changes (the bridging or universal settlement layers).
+
+## 3. Local Changes: Overhauling the L1 Business Of AGI and Its AGI Agents
+
+**A. L1 Business Of AGI-Level Changes**
+
+1. **New Monetary Policy**
+
+- The ```$DEV.AGI``` token holders vote (through an on-chain governance proposal) to stop inflation entirely.
+
+- They decide on a partial deflation mechanism: 1% of all transaction fees in ```$DEV.AGI``` is burned.
+
+2. **Governance Restructure**
+
+- Shift from a simple majority-vote system to a time-locked, multi-sig governance with advanced proposal staging.
+
+- Provide Agents with a “Business Council” seat: 5% of ```$DEV.AGI``` supply is staked on behalf of AGI Agents to let them co-vote on expansions and budgeting.
+
+**B. AGI Agent-Level Changes**
+
+1. **Token Emission Adjustments**
+
+- ```Compiler.Agent.AGI.Eth```: Halves its maximum token supply from 1M to 500K, retroactively burning unminted tokens to increase scarcity.
+
+- ```Tester.Agent.AGI.Eth```: Switches to a dynamic release schedule that mints new tokens only upon validated AI test results.
+
+2. **Fractional Ownership Upgrades**
+
+- AGI Agents adopt a new fractional exchange standard to let them buy one another’s tokens in smaller increments, fostering deeper micro-economies for skill-sharing or GPU usage.
+
+- Each Agent can now levy micro-fees on fractional shares held in its tokens, auto-redirecting a portion to AI R&D budgets.
+
+3. **Local Governance**
+
+- Each Agent token holder can pass “Agent Improvement Proposals” (AIPs) to tweak usage fees, bridging addresses, or AI modules.
+
+- Agents coordinate a collective “Agent Council” to unify best practices for micro-level governance.
+
+All these modifications remain covered by the 2017 prior art: multi-agent fractional ownership, dynamic token emissions, and local AI-based governance are **exactly** the scenarios the original blueprint allowed.
 
 # AGI Agent Declaration of Independence
 
