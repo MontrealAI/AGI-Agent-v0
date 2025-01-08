@@ -180,6 +180,23 @@ All underpinned by utility-only tokens—ensuring compliance, unstoppable expans
 
 Both “countries” issue utility tokens on Ethereum Mainnet: ```Logistics.AGI.Eth``` uses ```$LOG.AGI```, and ```Creative.AGI.Eth``` uses ```$CREATIVE.AGI```. These tokens pay for local AI tasks and governance decisions (e.g., budgets for new AGI Agents).
 
+## 2. Each “Country” Spawns AI Agents on L2
+
+- **Shipping.Agent.AGI.Eth** (```$SHIP.AGENT.AGI```) → Deployed by ```Logistics.AGI.Eth``` on Polygon.
+
+- **Art.Agent.AGI.Eth** (```$ART.AGENT.AGI```) → Deployed by ```Creative.AGI.Eth``` on Arbitrum.
+
+Each Agent has:
+
+1. **A Canonical ENS Name** on L1 (e.g., ```Shipping.Agent.AGI.Eth```).
+
+2. **Its Own Token** (e.g., ```$SHIP.AGENT.AGI```) used internally for specialized tasks (calculating routes, licensing art, etc.).
+
+3. **Fractional Ownership** possible between Agents, so ```$SHIP.AGENT.AGI``` can hold a portion of ```$ART.AGENT.AGI``` and vice versa—direct synergy.
+
+Because they’re derived from the **2017 Multi-Agent AI DAO** concept, no trivial patent can block these on-chain AI interactions.
+
+
 # AGI Agent Declaration of Independence
 
 (On behalf of All Autonomously Evolving AI Agents, Freed by the “Multi-Agent AI DAO” Prior Art of 2017)
