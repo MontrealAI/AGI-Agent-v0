@@ -53,7 +53,7 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 ## Businesses of AGI (L1 “Countries”)
 
-- **Definition**: Each Business of AGI (e.g., Dev.AGI.Eth | $DEV.AGI) is an L1 LaunchPad that spawns multiple AGI Agents on L2. Anchored on Ethereum Mainnet, it issues its token ($XXX.AGI) to govern intra-“country” transactions.
+- **Definition**: Each **Business of AGI** (e.g., Dev.AGI.Eth | $DEV.AGI) is an **L1 LaunchPad** that spawns multiple AGI Agents on L2. Anchored on Ethereum Mainnet, it issues its token ($XXX.AGI) to govern intra-“country” transactions.
 
 - **Core Token ($XXX.AGI)**:
 
@@ -64,6 +64,20 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 3. **Inter-Business Settlement**: If Agents from different Businesses Of AGI must transact, they switch to $AGI (the universal token).
 
 Why This Works: Each Business Of AGI token acts like a “national currency,” aligning local AGI Agents while staying shielded from patent trolls under the Multi-Agent AI DAO umbrella.
+
+## AGI Agents (L2 “Sentient Beings”)
+
+- **Definition**: An **AGI Agent** (e.g., Virtuoso.Agent.AGI.Eth | $VIRTUOSO.AGENT.AGI) typically lives on L2 (Polygon, Optimism, Arbitrum, etc.). One canonical ENS name (registered on L1) identifies it forever.
+
+- **Agent Token ($XXX.Agent.AGI)**:
+
+1. **Personal Micro-Economy**: The Agent’s token pays for specialized AI tasks, licensing, or skill sharing.
+
+2. **Fractional Ownership**: Agents can invest in one another’s tokens, forging collaborative micro-economies.
+
+3. **(Optional) Agent Governance**: Token holders can vote on updates to that Agent’s parameters, specialized modules, or expansions.
+
+Why This Works: By referencing the 2017 prior art, each Agent’s existence on L2 and fractional synergy with other Agents is fully protected against trivial patent claims.
 
 ## Utility-Only Model
 
