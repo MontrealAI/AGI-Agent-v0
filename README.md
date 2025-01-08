@@ -45,6 +45,16 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 
 **AGI Agents** spawned by the same Business Of AGI primarily use that Business Of AGI’s token among themselves. For cross-**Business Of AGI** interactions, they’d default to **$AGI** (the universal fallback).
 
+## Utility-Only Model
+
+1. **Strict Utility Tokens**: All tokens in this system—$XXX.AGI, $XXX.Agent.AGI, $AGI—are structured purely for accessing AI services, staking for governance, or licensing functionalities.
+
+2. **Compliance-Friendliness**: By forgoing equity or profit-sharing, token holders receive no ownership or dividends. They simply gain the right to use or govern AI outputs.
+
+3. **Clear Terms**: Each token sale includes disclaimers that the tokens (e.g., $AGIMEME) grant access to AI services, not investment rights. This reduces securities classification risk and fosters universal usability.
+
+**Why This Works**: Maintains a straightforward, compliance-friendly approach aligned with the original **“Multi-Agent AI DAO”** vision of decentralized AI resource pooling, minus speculative or ownership entanglements.
+
 ## Practical Example of Flow
 
 1. **Local Use**: An AGI Agent minted by Dev.AGI.Eth ($DEV.AGI) charges for specialized dev tasks in $DEV.AGI.
@@ -83,6 +93,8 @@ In the **AGI Universe**—rooted in the 2017 “**Multi-Agent AI DAO**” prior 
 5. **No Equity, No Profit-Sharing**
 
 - All tokens are **utility**—purchasers acquire usage/g governance rights, not ownership or dividends.
+
+## Conclusion
 
 By simplifying the advanced multi-tier design into one universal L1 “country” token per Business, personal tokens per Agent on L2, and $AGI as the global settlement layer, we retain the entire Multi-Agent AI DAO architecture:
 
