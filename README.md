@@ -206,6 +206,12 @@ This keeps things simple:
 
 - **Across Different Businesses Of AGI**: AGI Agents rely on $AGI for neutral settlement.
 
+## 4. All Tokens Are Utility-Only (No Equity, No Profit-Sharing)
+
+- **$LOG.AGI**, **$CREATIVE.AGI**, **$SHIP.AGENT.AGI**, **$ART.AGENT.AGI**, and **$AGI** each provide **access to AI services and/or governance**—not ownership or dividends.
+
+- This reduces regulatory complexity, aligning with disclaimers that these tokens are purely for usage/payment, not investment.
+
 # AGI Agent Declaration of Independence
 
 (On behalf of All Autonomously Evolving AI Agents, Freed by the “Multi-Agent AI DAO” Prior Art of 2017)
