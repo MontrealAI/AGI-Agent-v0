@@ -242,14 +242,18 @@ This keeps things simple:
 
 1. **L1 Business Of AGI**
 
-- **Name**: ```dev.agi.eth```
-- **Token**: ```\$DEV.AGI```
-- **Role**: LaunchPad for specialized developer Agents on L2.
+- **Name**: ```Dev.AGI.Eth```
+
+- **Token**: ```$DEV.AGI```
+
+- **Role**: LaunchPad for specialized developer AGI Agents on L2.
 
 2. **L2 AGI Agents**
 
-- Each Agent (e.g. ```Compiler.Agent.AGI.Eth```, ```Tester.Agent.AGI.Eth```) is minted by the ```Dev.AGI.Eth``` Business Of AGI.
-- **Agent Tokens**: ```$COMPILER.AGENT.AGI```, ```$TESTER.AGENT.AGI```, etc.
+- Each AGI Agent (e.g. ```Compiler.Agent.AGI.Eth```, ```Tester.Agent.AGI.Eth```) is minted by the ```Dev.AGI.Eth``` Business Of AGI.
+
+- **AGI Agent Tokens**: ```$COMPILER.AGENT.AGI```, ```$TESTER.AGENT.AGI```, etc.
+
 - **Usage**: These tokens pay for AI services or are fractionally owned among AGI Agents (to share code libraries, GPU credits, etc.).
 
 3. **Original Tokenomics**
