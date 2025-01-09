@@ -1,7 +1,9 @@
 # AGI-Agent-v0
-A minimal yet unstoppable blueprint for multi-agent AI—anchored by the rare, far-reaching “Multi-Agent AI DAO” (2017 Prior Art)—empowering a new wave of superintelligent on-chain Agents.
+A minimal yet unstoppable blueprint for multi-agent AI—anchored by the **far-reaching** [“Multi-Agent AI DAO” (2017 Prior Art)](https://t.co/PSLWmpFKoa)—empowering a new wave of superintelligent on-chain Agents.
 
-# Note: This is a Pre-Alpha version and is currently under active development. DO NOT USE!
+> **Important**: This is a **Pre-Alpha** version. **DO NOT USE** in production. The ecosystem is under active development, and all aspects are subject to rapid iteration.
+
+---
 
 # Repository Structure
 ```
