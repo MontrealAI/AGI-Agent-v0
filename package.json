@@ -1,12 +1,17 @@
 {
   "name": "agi-agent-v0",
   "version": "1.0.0",
-  "description": "A minimal yet unstoppable blueprint for multi-agent AI, anchored by #PriorArt (2017).",
+  "description": "A minimal yet unstoppable blueprint for multi-agent AI—anchored by the rare, far-reaching “Multi-Agent AI DAO” (2017 Prior Art)—empowering a new wave of superintelligent on-chain Agents.",
+  "author": "AGI-Agent Consortium (Protected by #PriorArt (2017) 'Multi-Agent AI DAO')",
+  "license": "Apache-2.0",
+  "private": true,
   "scripts": {
     "compile": "npx hardhat compile",
     "test": "npx hardhat test",
     "deploy": "npx hardhat run scripts/deploy.ts",
-    "upgrade": "npx hardhat run scripts/upgrade.ts"
+    "upgrade": "npx hardhat run scripts/upgrade.ts",
+    "clean": "rm -rf artifacts cache typechain && mkdir artifacts && mkdir cache",
+    "lint": "echo \"Add your preferred linting script here.\""
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.2",
@@ -18,6 +23,25 @@
     "mocha": "^10.2.0",
     "ts-node": "^10.9.1",
     "typescript": "^4.8.4"
+  },
+  "keywords": [
+    "Hardhat",
+    "Ethereum",
+    "Solidity",
+    "Multi-Agent AI DAO",
+    "AI Agents",
+    "On-Chain AI",
+    "ERC20",
+    "Trivial Patent Blocker",
+    "2017 Prior Art",
+    "AGI"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MontrealAI/AGI-Agent-v0.git"
   }
 }
-
