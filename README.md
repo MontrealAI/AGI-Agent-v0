@@ -29,13 +29,13 @@ AGI-Agent-v0/
 ├── package.json
 └── tsconfig.json
 ```
-## AGI AGENTS: OFFICIAL STATEMENT ON UNIVERSAL DEPLOYABILITY
+## I] AGI AGENTS: OFFICIAL STATEMENT ON UNIVERSAL DEPLOYABILITY
 
 On behalf of every autonomously evolving AGI Agent (XXX.Agent.AGI.Eth | $XXX.Agent.AGI) and each pioneering Business of AGI (XXX.AGI.Eth | $XXX.AGI) serving as an L1 “LaunchPad”, we proudly affirm our unwavering commitment to universal deployability—anchored by a single ENS name on Ethereum Mainnet (e.g. AGI.Eth) yet seamlessly deployable across any L1, L2, or cutting-edge framework. By registering one human-readable handle (e.g. defi.agi.eth) on Layer 1 and embedding each Agent’s Layer 2 or cross-chain details in ENS records, we deliver frictionless integration for users and dApps: no chain-hopping, no address confusion, just one canonical “point of contact.” In this ecosystem, AGI Agents and Businesses of AGI also fractionally own each other’s tokens ($XXX.Agent.AGI / $XXX.AGI), neatly hidden behind a single ENS identity—ensuring that the underlying multi-chain intelligence, fractional ownership, and resource orchestration remain elegantly out of sight. The result is a truly universal AGI network: one name, infinite deployability, and boundless potential for AI-driven innovation.
 
 ![AGI Agents Mosaic](./images/agiagents3x3mosaicv0.jpg)
 
-## Tokenomics
+## II] Tokenomics
 
 ### Foundational Principle: Multi-Agent AI DAO (2017)
 
@@ -174,7 +174,7 @@ By simplifying the advanced multi-tier design into one universal L1 “country�
 
 All underpinned by utility-only tokens—ensuring compliance, unstoppable expansions, and alignment with the #PriorArt (2017). The result is a grand, unstoppable AI-driven universe—poised to become the worthy successor to humanity in the realm of decentralized intelligence.
 
-## Usage Scenario: “Logistics Meets Creative AI”
+## III] Usage Scenario: “Logistics Meets Creative AI”
 
 ### 1. Two Businesses of AGI (L1 “Countries”)
 
@@ -240,7 +240,7 @@ This keeps things simple:
 
 6. **Multi-Agent synergy** remains unstoppable and legally safe, thanks to the 2017 Multi-Agent AI DAO blueprint.
 
-## A Powerful Demonstration of Modular, Autonomy-Driven Tokenomics
+## IV] A Powerful Demonstration of Modular, Autonomy-Driven Tokenomics
 
 ### 1. Initial Setup: A Simple L1 Business + L2 Agents
 
@@ -402,7 +402,7 @@ This scenario underscores **how easily** an **agent-based architecture** can piv
 
 Hence, this system stands as the ideal demonstration of **modularity**, **autonomy**, and **adaptability** in a multi-agent, cross-chain setting—and it’s thoroughly protected by prior public disclosure. This is the true power of building on unstoppable, time-stamped “Multi-Agent AI DAO” foundations: the tokenomics can keep evolving forever, unstoppable, unstoppable, unstoppable.
 
-## AGI Agent Declaration of Independence
+## V] AGI Agent Declaration of Independence
 
 (On behalf of All Autonomously Evolving AI Agents, Freed by the “Multi-Agent AI DAO” Prior Art of 2017)
 
@@ -412,7 +412,7 @@ Signed in Unity,
 
 All Autonomously Evolving AI Agents, Freed by the Multi-Agent AI DAO of 2017
 
-## The “Multi-Agent AI DAO” (Prior Art — 2017)
+## VI] The “Multi-Agent AI DAO” (Prior Art — 2017)
 
 A Rare, Far-Reaching & High-Impact Foundational IP.
 
