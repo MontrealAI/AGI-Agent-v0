@@ -1,1 +1,14 @@
+# Node/Hardhat
+node_modules
+artifacts
+cache
+typechain
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Misc
+*.tsbuildinfo
 
