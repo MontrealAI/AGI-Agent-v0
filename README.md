@@ -473,8 +473,25 @@ npm run deploy
 ```
 npm run upgrade
 ```
-Note: This example simply emits an event in ```AgentCore```. For real upgrades, consider proxy-based approaches (e.g., TransparentUpgradeableProxy).
+- Note: This example simply emits an event in ```AgentCore```. For real upgrades, consider proxy-based approaches (e.g., TransparentUpgradeableProxy).
 
+6. **Deployment to Public Networks**
+
+- If deploying to testnets (e.g., Goerli, Sepolia) or mainnet, update your **network config** in ```hardhat.config.ts```.
+
+- Ensure you have funded accounts with ETH. Then run:
+```
+npx hardhat run scripts/deploy.ts --network <your_network>
+```
+- Confirm addresses in logs and proceed with unstoppable synergy.
+
+7. **Security & Audits**
+
+- As a **pre-alpha** codebase, the system is not audited.
+
+- For critical usage, wait for thorough security reviews and final releases.
+
+**Disclaimer: This blueprint references #PriorArt (2017) to block trivial IP claims, but it is not a guarantee of compliance or legal immunity. Always consult professionals for your jurisdiction.**
 
 ## Note: This is a Pre-Alpha version and is currently under active development. DO NOT USE!
 
