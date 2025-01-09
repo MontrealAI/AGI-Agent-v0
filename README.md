@@ -449,7 +449,31 @@ npm run test
 ```
 - You’ll see coverage of ```AgentToken```, ```AgentCore```, and ```MultiAgentAIDAOReferences``` in ```./test/``` directory.
 
+4. **Local Deployment**
 
+- Deploy locally (e.g., Hardhat Network) using the included Hardhat script:
+```
+npm run deploy
+```
+- This runs ```scripts/deploy.ts```, sequentially deploying:
+
+1. ```MultiAgentAIDAOReferences```
+
+2. ```AgentToken```
+
+3. ```AgentCore```
+
+- You’ll get console output with deployed contract addresses.
+
+5. **Upgrading AgentCore (Conceptual Demo)**
+
+- An example “upgrade” flow is provided in ```scripts/upgrade.ts```.
+
+- Edit ```agentCoreAddress``` and ```newImplementationAddress``` within that script, then run:
+```
+npm run upgrade
+```
+Note: This example simply emits an event in ```AgentCore```. For real upgrades, consider proxy-based approaches (e.g., TransparentUpgradeableProxy).
 
 
 ## Note: This is a Pre-Alpha version and is currently under active development. DO NOT USE!
