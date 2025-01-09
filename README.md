@@ -418,6 +418,40 @@ A Rare, Far-Reaching & High-Impact Foundational IP.
 
 The [“Multi-Agent AI DAO” PriorArt (2017)](https://t.co/PSLWmpFKoa) is a rare, far-reaching, and high-impact foundational IP that irrevocably unites AI autonomy, blockchain coordination, multi-agent governance, and tokenized resource management—fundamentally reshaping entire markets and fostering groundbreaking innovation. By virtue of its public disclosure, time-stamped record, and unprecedented scope, any new patent seeking to monopolize or trivially extend these core concepts will be forcefully challenged and likely invalidated.
 
+## VII] Deployment Instructions
+
+Below is a user-friendly guide to compile, test, and deploy these contracts via Hardhat. Proceed cautiously in test or development environments—this code is **pre-alpha**.
+
+1. **Install Dependencies**
+
+- Ensure you have **Node.js (>=16)** and **npm (>=8)**.
+
+- Clone the repo:
+```
+git clone https://github.com/MontrealAI/AGI-Agent-v0.git
+cd AGI-Agent-v0
+npm install
+```
+
+2. **Compile Contracts**
+
+- From the **AGI-Agent-v0** directory, run:
+```
+npm run compile
+```
+- This compiles Solidity using Hardhat and stores artifacts in ```artifacts/```.
+
+3. **Run Tests**
+
+- Execute all tests via:
+```
+npm run test
+```
+- You’ll see coverage of ```AgentToken```, ```AgentCore```, and ```MultiAgentAIDAOReferences``` in ```./test/``` directory.
+
+
+
+
 ## Note: This is a Pre-Alpha version and is currently under active development. DO NOT USE!
 
 ## CURRENTLY UNDER ACTIVE DEVELOPMENT.
